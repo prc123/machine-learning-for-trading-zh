@@ -1,0 +1,13 @@
+{
+  "shell_port": 7046,
+  "iopub_port": 7047,
+  "stdin_port": 7048,
+  "control_port": 7050,
+  "hb_port": 7049,
+  "ip": "127.0.0.1",
+  "key": "be4f7e6f-649e33d5dbb94956d69a8664",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u80a1\u7968\u5b66\u4e9b\\machine-learning-for-trading\\02_financial_data_universe\\01_us_equities_eda.zh-CN.ipynb"
+}

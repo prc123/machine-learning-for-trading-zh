@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 30920,
+  "port": 8888,
+  "root_dir": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u80a1\u7968\u5b66\u4e9b\\machine-learning-for-trading",
+  "secure": false,
+  "sock": "",
+  "token": "2e274238144a3ba9424561044b435d23f39e4b4a7415b799",
+  "url": "http://localhost:8888/",
+  "version": "2.18.2"
+}

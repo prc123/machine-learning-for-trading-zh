@@ -1,0 +1,13 @@
+{
+  "shell_port": 1585,
+  "iopub_port": 1586,
+  "stdin_port": 1587,
+  "control_port": 1589,
+  "hb_port": 1588,
+  "ip": "127.0.0.1",
+  "key": "1c369a00-3364bbd3b7eba781c1339e19",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u80a1\u7968\u5b66\u4e9b\\machine-learning-for-trading\\01_process_is_edge\\factor_regimes.zh-CN.ipynb"
+}
